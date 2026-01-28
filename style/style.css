@@ -1,11 +1,13 @@
 body {
   font-family: 'Arial', sans-serif;
-  background: linear-gradient(to right, #41a6ff, #87dfe4); /* gradient example */
+  background: linear-gradient(to right, #3d9cf0, #87dfe4); /* gradient example */
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
   margin: 0;
+
+  
 }
 
 .calculator {
